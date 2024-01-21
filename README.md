@@ -2,6 +2,10 @@
 
 This data engineering project focuses on processing and transforming Tokyo Olympic datasets using Azure Data Factory (ADF) for initial data loading and Azure Databricks for subsequent transformations. The project involves loading datasets from GitHub to Azure Data Lake Storage Gen2 using ADF, performing various data transformations in Databricks, and then loading the transformed data back to Azure Data Lake Storage Gen2.
 
+## Architecture Overview
+
+![Project Architecture](./Architecture.png)
+
 ## Project Overview
 
 - **Data Sources:**
